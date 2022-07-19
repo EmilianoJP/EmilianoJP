@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmilianoJP
+- 👀 I’m interested in data science in phyton and R
+- 🌱 I’m currently learning phyton and economy
+- 💞️ I’m looking to collaborate on proyects about data analist and data science apply to the monetary policy and economy.
+- 📫 How to reach me jacoboemiliano2@gmail.com or 1075663@alumnos.ujed.mx
